@@ -55,11 +55,11 @@ layout: default
 
 ## 資格など
 
-[x] 日本漢字能力検定2級
+- 日本漢字能力検定2級
 
-[x] 普通自動車第一種運転免許
+- 普通自動車第一種運転免許
 
-[x] TOEIC Listening & Reading スコア 705 (Listening：355，Reading：350)
+- TOEIC Listening & Reading スコア 705 (Listening：355，Reading：350)
 
 ## リンク
 
