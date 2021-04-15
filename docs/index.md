@@ -5,7 +5,7 @@ layout: default
 
 <!-- ※英語版は [こちら](https://fumiyanll23.github.io/docs/index_en.html)． -->
 
-## 自己紹介 - 2021/04/05現在
+## 自己紹介 - 2021/04/15現在
 
 - 名前：成田史弥 (なりた・ふみや) a.k.a. Fumiyan
 
@@ -13,9 +13,9 @@ layout: default
 
 - 研究分野：符号理論，暗号理論
 
-- 興味 (順不同)：数学全般 (特に代数学)，Rust，Julia，ブロックチェーン，クイズ (特に早押しクイズ)，麻雀
+- 興味 (順不同)：数学全般 (特に代数学)，Rust，Julia，クイズ (特に早押しクイズ)，麻雀
 
-## 学歴
+## 経歴
 
 1999
 
@@ -59,7 +59,9 @@ layout: default
 
 - 普通自動車第一種運転免許
 
-- TOEIC Listening & Reading スコア 705 (Listening：355，Reading：350)
+- TOEIC Listening & Reading スコア 705 (2019/09/29取得)
+
+  - Listening：355，Reading：350
 
 ## リンク
 
