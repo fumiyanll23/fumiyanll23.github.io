@@ -1,1 +1,9 @@
+title: MyWeblog
+email: fumiyanll23.public@gmail.com
+baseurl: ""
+url: ""
+twitter_username: fumiyanll23
+github_username: fumiyanll23
+
+# Build settings
 theme: jekyll-theme-time-machine
