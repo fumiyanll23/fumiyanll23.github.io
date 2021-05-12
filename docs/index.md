@@ -5,7 +5,7 @@ layout: default
 
 <!-- ※英語版は [こちら](https://fumiyanll23.github.io/docs/index_en.html)． -->
 
-## 自己紹介 - 2021/05/11現在
+## 自己紹介 - 2021/05/12現在
 
 - 名前：成田史弥 (なりた・ふみや) a.k.a. Fumiyan
 
@@ -13,7 +13,7 @@ layout: default
 
 - 研究分野：符号理論，暗号理論
 
-- 興味 (順不同)：数学全般 (特に圏論、代数学)，Haskell、Go、Rust，クイズ (特に早押しクイズ)，麻雀
+- 興味 (順不同)：数学全般 (特に圏論，代数学)，Haskell，Go，Rust，クイズ (特に早押しクイズ)，麻雀
 
 ## 経歴
 
@@ -43,9 +43,9 @@ layout: default
 
 - 4月：熊本大学大学院 自然科学教育部 機械数理工学専攻 数理工学教育プログラムに入学する
 
-- 5月：[株式会社サポーターズ主催 初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/) に参加し、チーム (チーム名：math-eng) が努力賞を受賞する
+- 5月：株式会社サポーターズ主催 [初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/) に参加し，チーム (math-eng) が努力賞を受賞する
 
-  <!-- - 参加した感想などは [こちら]() に記事としてまとめています -->
+  <!-- - 参加した感想などは [こちら](https://fumiyanll23.github.io/posts/2021-05-12-hackathon.html) に記事としてまとめています -->
 
 ## 技術経歴
 
