@@ -5,7 +5,7 @@ layout: default
 
 <!-- ※英語版は [こちら](https://fumiyanll23.github.io/docs/index_en.html)． -->
 
-## 新着記事
+## 記事一覧
 
 - 2021/05/12：[「初めてのハッカソン」に初めて参加した話](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)
 
