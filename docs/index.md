@@ -7,7 +7,7 @@ layout: default
 
 ## 新着記事
 
-- 2021/05/12 [「初めてのハッカソン」に初めて参加した話](https://fumiyanll23.github.io/posts/2021-05-12-hackathon.html)
+- 2021/05/12：[「初めてのハッカソン」に初めて参加した話](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)
 
 ## 自己紹介 - 2021/05/12現在
 
@@ -49,7 +49,7 @@ layout: default
 
 - 5月：株式会社サポーターズ主催 [初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/) に参加し，チーム (math-eng) が努力賞を受賞する
 
-  - 参加した感想などは [こちら](https://fumiyanll23.github.io/posts/2021-05-12-hackathon.html) に記事としてまとめています
+  - 参加した感想などは [こちら](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html) に記事としてまとめています
 
 ## 技術経歴
 
