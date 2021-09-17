@@ -49,9 +49,11 @@ layout: default
 
 - 5月：株式会社サポーターズ主催[初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/)に参加し，チーム (math-eng) が努力賞を受賞する
 
-  - 参加した感想などは[こちら](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)に記事としてまとめています
+  - 参加記を[こちら](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)にまとめています
 
 - 5月：[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)でアルバイトを始める
+
+- 8月：[東京ガスiネット5Daysインターンシップ](http://tginet-recruit.jp/internship/information.html) (GISグループ) に参加する
 
 ## 技術経歴
 
