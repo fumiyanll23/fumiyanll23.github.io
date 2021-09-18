@@ -45,7 +45,7 @@ layout: default
 
 - 3月：熊本大学 工学部 数理工学科を卒業する．学士 (工学)
 
-- 4月：熊本大学大学院 自然科学教育部 機械数理工学専攻 数理工学教育プログラムに入学する
+- 4月：熊本大学 大学院自然科学教育部 機械数理工学専攻 数理工学教育プログラムに入学する
 
 - 5月：株式会社サポーターズ主催[初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/)に参加し，チーム (math-eng) が努力賞を受賞する
 
@@ -53,7 +53,9 @@ layout: default
 
 - 5月：[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)でアルバイトを始める
 
-- 8月：[東京ガスiネット5Daysインターンシップ](http://tginet-recruit.jp/internship/information.html) (GISグループ) に参加する
+- 8月：東京ガスiネットの[5Daysインターンシップ](http://tginet-recruit.jp/internship/information.html) (GISグループ) に参加する
+
+- 9月：DeNAの[実践型1dayインターン-チート対策について学ぼう-](https://dena-shinsotsu.connpass.com/event/220642/)に参加する
 
 ## 技術経歴
 
@@ -67,11 +69,13 @@ layout: default
 
 2021年
 
-- NITIC CTF 2
+- NITIC CTF 2：155チーム中87位 (1001pts)
 
-- TsukuCTF 2021：write-up執筆中
+- TsukuCTF 2021：182チーム中91位 (752pts)
+  - write-up執筆中
 
-- CSAW CTF 2021：write-up執筆中
+- CSAW CTF 2021：1216チーム中1054位 (36pts)
+  - write-up執筆中
 
 ## 資格など
 
@@ -81,12 +85,16 @@ layout: default
 
 - TOEIC Listening & Reading スコア 705 (Listening：355，Reading：350)
 
-## リンク
+## アカウント
 
-- Twitter：[fumiyanll23](https://twitter.com/fumiyanll23)
+- [Twitter](https://twitter.com/fumiyanll23)
 
-- GitHub：[fumiyanll23](https://github.com/fumiyanll23)
+- [GitHub](https://github.com/fumiyanll23)
 
-- Qiita：[fumiyanll23](https://qiita.com/fumiyanll23)
+- [Qiita](https://qiita.com/fumiyanll23)
 
-- AtCoder：[fumiyanll23](https://atcoder.jp/users/fumiyanll23)
+- [AtCoder](https://atcoder.jp/users/fumiyanll23)
+
+- [CryptoHack](https://cryptohack.org/user/fumiyanll23/)
+
+- [connpass](https://connpass.com/user/fumiyanll23/)
