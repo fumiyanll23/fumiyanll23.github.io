@@ -50,7 +50,7 @@ layout: default
 
 - 5月：株式会社サポーターズ主催[初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/)に参加し，チーム (math-eng) が努力賞を受賞する
 
-  - 参加記を[こちら](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)にまとめています
+  - 参加記事は[こちら](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)
 
 - 5月：[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)でアルバイトを始める
 
@@ -70,13 +70,12 @@ layout: default
 
 2021年
 
-- NITIC CTF 2：155チーム中87位 (1001pts)
+- NITIC CTF 2：155チーム中87位 (1001 pts)
 
-- TsukuCTF 2021：182チーム中91位 (752pts)
-  - write-up執筆中
+- TsukuCTF 2021：182チーム中91位 (752 pts)
+  - write-upは[こちら](https://qiita.com/fumiyanll23/items/eeb77505bbfe956cbc36)
 
-- CSAW CTF 2021：1216チーム中1054位 (36pts)
-  - write-up執筆中
+- CSAW CTF 2021：1216チーム中1054位 (36 pts)
 
 ## 資格など
 
