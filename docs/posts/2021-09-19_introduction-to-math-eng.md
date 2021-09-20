@@ -68,7 +68,7 @@ YouTubeにいくつか紹介動画がアップされているので，まずは�
   - 前期
   ![2019年度前期](https://github.com/fumiyanll23/fumiyanll23.github.io/blob/main/img/2021-09-10_introduction-to-math-eng/2019-spring.png?raw=true)
   - 後期
-  ![2019年度後期](../../img/2021-09-10_introduction-to-math-eng/2019-fall.png)
+  ![2019年度後期](https://github.com/fumiyanll23/fumiyanll23.github.io/blob/main/img/2021-09-10_introduction-to-math-eng/2019-fall.png)
 - 学部2年生
   - 前期
   ![2020年度前期](../../img/2021-09-10_introduction-to-math-eng/2020-spring.png)
