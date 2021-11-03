@@ -10,7 +10,7 @@ layout: default
 - 2021/05/12：[「初めてのハッカソン」に初めて参加した話](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)
 - 2021/09/20：[熊大の数理工を紹介する話](https://fumiyanll23.github.io/posts/2021-09-19_introduction-to-math-eng.html)
 
-## 自己紹介 - 2021/09/18現在
+## 自己紹介 - 2021/11/03現在
 
 - 名前：成田史弥 (なりた・ふみや) a.k.a. Fumiyan
 
@@ -18,7 +18,7 @@ layout: default
 
 - 研究分野：符号理論，暗号理論
 
-- 興味 (順不同)：数学全般 (特に圏論，代数学)，サイバーセキュリティ，競技プログラミング (AtCoder)，CTF，Haskell，Go，Rust，クイズ (特に早押しクイズ)，麻雀
+- 興味 (順不同)：数学全般 (特に圏論，代数学)，サイバーセキュリティ，競技プログラミング (AtCoder)，CTF，Haskell，Go，麻雀，クイズ (特に早押しクイズ)
 
 ## 経歴
 
@@ -32,7 +32,7 @@ layout: default
 
 - 4月：熊本大学 工学部 数理工学科に入学する
 
-- 8月：[ICDC (International Capstone Design Camp)](https://www.eng.kumamoto-u.ac.jp/international/icdc/)2017 (韓国，釜山にて開催) に参加し，チームが優勝する
+- 8月：[ICDC (International Capstone Design Camp)](https://www.eng.kumamoto-u.ac.jp/international/icdc/) 2017 (韓国，釜山にて開催) に参加し，チームが優勝する
 
   - 2017年のテーマは "How to provide safety when walking street"
 
@@ -48,23 +48,31 @@ layout: default
 
 - 4月：熊本大学 大学院自然科学教育部 機械数理工学専攻 数理工学教育プログラムに入学する
 
-- 5月：株式会社サポーターズ主催[初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/)に参加し，チーム (math-eng) が努力賞を受賞する
+- 5月：株式会社サポーターズ主催 [初めてのハッカソン ~オンライン開発合宿vol.3~](https://talent.supporterz.jp/events/d1a92db9-5a22-4e3b-a441-ae9669fe79c4/) に参加し，チーム (math-eng) が努力賞を受賞する
 
-  - 参加記事は[こちら](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)
+  - 参加記事は [こちら](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)
 
-- 5月：[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/)でアルバイトを始める
+- 5月：[株式会社ナレッジコミュニケーション](https://www.knowledgecommunication.jp/) でアルバイトを始める
 
-- 8月：東京ガスiネットの[5Daysインターンシップ](http://tginet-recruit.jp/internship/information.html) (GISグループ) に参加する
+- 8月：東京ガスiネット株式会社 [5Daysインターンシップ](http://tginet-recruit.jp/internship/information.html) (GISグループ) に参加する
 
-- 9月：DeNAの[実践型1dayインターン-チート対策について学ぼう-](https://dena-shinsotsu.connpass.com/event/220642/)に参加する
+- 9月：株式会社ディー・エヌ・エー [実践型1dayインターン-チート対策について学ぼう-](https://dena-shinsotsu.connpass.com/event/220642/) に参加する
+
+- 10月：株式会社マネーフォワード サマーインターンシップ (9日間) に参加する
 
 ## 技術経歴
 
 - C (1年ほど)：大学の講義で基本的な文法を一通り学習する
 
+- HTML/CSS (1年ほど)：大学の講義で学んだ
+
 - Python (1年ほど)：競技プログラミングをきっかけに学習を始める．大学での研究においても使用する
 
-- Haskell (1ヶ月ほど)：[『すごいHaskellたのしく学ぼう!』](https://www.amazon.co.jp/%E3%81%99%E3%81%94%E3%81%84Haskell%E3%81%9F%E3%81%AE%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%BC%E3%81%86-Miran-Lipova%C4%8Da/dp/4274068854/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%81%99%E3%81%94%E3%81%84haskell&qid=1617610983&sr=8-1)で学習を進める
+- R (1.5年ほど)：大学の講義で学んだ
+
+- Haskell (1ヶ月ほど)：[『すごいHaskellたのしく学ぼう!』](https://www.amazon.co.jp/%E3%81%99%E3%81%94%E3%81%84Haskell%E3%81%9F%E3%81%AE%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%BC%E3%81%86-Miran-Lipova%C4%8Da/dp/4274068854/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%81%99%E3%81%94%E3%81%84haskell&qid=1617610983&sr=8-1) で学習を進める
+
+- Go (2週間ほど)：株式会社マネーフォワードのインターンシップにて使用した
 
 ## CTF参加経歴
 
@@ -73,9 +81,11 @@ layout: default
 - NITIC CTF 2：155チーム中87位 (1001 pts)
 
 - TsukuCTF 2021：182チーム中91位 (752 pts)
-  - write-upは[こちら](https://qiita.com/fumiyanll23/items/eeb77505bbfe956cbc36)
+  - write-upは [こちら](https://qiita.com/fumiyanll23/items/eeb77505bbfe956cbc36)
 
 - CSAW CTF 2021：1216チーム中1054位 (36 pts)
+
+- NRI Secure NetWars 2021：64人中42位 (112 pts)
 
 ## 資格など
 
@@ -83,7 +93,7 @@ layout: default
 
 - 普通自動車第一種運転免許
 
-- TOEIC Listening & Reading スコア 705 (Listening：355，Reading：350)
+- データサイエンティスト検定 リテラシーレベル
 
 ## アカウント
 
