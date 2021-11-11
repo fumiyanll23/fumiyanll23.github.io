@@ -6,7 +6,7 @@
 
 ## 株式会社マネーフォワードとは?
 
-![マネーフォワード 企業ロゴ](<!-- 画像URLを記入する -->)
+![マネーフォワード 企業ロゴ](https://github.com/fumiyanll23/fumiyanll23.github.io/blob/main/img/2021-10-31_internship-moneyforward/corporate_logo_S.png)
 
 会社HPは [こちら](https://corp.moneyforward.com/) です．
 [マネーフォワード ME](https://moneyforward.com/) というto Cサービス (家計簿) と [マネーフォワード クラウド](https://biz.moneyforward.com/) というto Bサービス (確定申告や給与・勤怠管理) があります．
