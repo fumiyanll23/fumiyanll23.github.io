@@ -11,7 +11,7 @@ layout: default
 - 2021/09/20：[熊大の数理工を紹介する話](https://fumiyanll23.github.io/posts/2021-09-19_introduction-to-math-eng.html)
 - 2021/11/11：[マネーフォワードのサマーインターンシップに参加した話](https://fumiyanll23.github.io/posts/2021-10-31_internship-moneyforward.html)
 
-## 自己紹介 - 2021/11/03現在
+## 自己紹介 - 2021/11/11現在
 
 - 名前：成田史弥 (なりた・ふみや) a.k.a. Fumiyan
 
@@ -87,6 +87,8 @@ layout: default
 - CSAW CTF 2021：1216チーム中1054位 (36 pts)
 
 - NRI Secure NetWars 2021：64人中42位 (112 pts)
+
+- WaniCTF 2021：330チーム中157位 (1311 pts)
 
 ## 資格など
 
