@@ -9,6 +9,7 @@ layout: default
 
 - 2021/05/12：[「初めてのハッカソン」に初めて参加した話](https://fumiyanll23.github.io/posts/2021-05-12_hackathon2021-vol3.html)
 - 2021/09/20：[熊大の数理工を紹介する話](https://fumiyanll23.github.io/posts/2021-09-19_introduction-to-math-eng.html)
+- 2021/11/11：[マネーフォワードのサマーインターンシップに参加した話](https://fumiyanll23.github.io/posts/2021-10-31_internship-moneyforward.html)
 
 ## 自己紹介 - 2021/11/03現在
 
