@@ -11,7 +11,7 @@ layout: default
 - 2021/09/20：[熊大の数理工を紹介する話](https://fumiyanll23.github.io/posts/2021-09-19_introduction-to-math-eng.html)
 - 2021/11/11：[マネーフォワードのサマーインターンシップに参加した話](https://fumiyanll23.github.io/posts/2021-10-31_internship-moneyforward.html)
 
-## 自己紹介 - 2021/11/11現在
+## 自己紹介 - 2021/11/19現在
 
 - 名前：成田史弥 (なりた・ふみや) a.k.a. Fumiyan
 
@@ -61,13 +61,18 @@ layout: default
 
 - 10月：株式会社マネーフォワード サマーインターンシップ (9日間) に参加する
 
+  - 参加記事は [こちら](https://fumiyanll23.github.io/posts/2021-10-31_internship-moneyforward.html)
+
+- 11月：[魔女のお茶会 2021/冬 (CTF勉強会)](https://connpass.com/event/227688/) に発表者として参加する
+
+  - 発表資料は [こちら](https://docs.google.com/presentation/d/11G1mw842LX2hdYST2Ov9BMZW8555WHM5h5cGVhs3fbA/edit?usp=sharing)
 ## 技術経歴
 
-- C (1年ほど)：大学の講義で基本的な文法を一通り学習する
+- C (1年ほど)：大学の講義で学んだ
 
-- HTML/CSS (1年ほど)：大学の講義で学んだ
+- HTML/CSS (1年ほど)：大学の講義で学んだ．アルバイトで使用する
 
-- Python (1年ほど)：競技プログラミングをきっかけに学習を始める．大学での研究においても使用する
+- Python (1年ほど)：競技プログラミングをきっかけに学習を始める．大学での研究やアルバイトで使用する
 
 - R (1.5年ほど)：大学の講義で学んだ
 
