@@ -66,6 +66,8 @@ layout: default
 - 11月：[魔女のお茶会 2021/冬 (CTF勉強会)](https://connpass.com/event/227688/) に発表者として参加する
 
   - 発表資料は [こちら](https://docs.google.com/presentation/d/11G1mw842LX2hdYST2Ov9BMZW8555WHM5h5cGVhs3fbA/edit?usp=sharing)
+  - 発表の様子は [こちら](https://youtu.be/oKNwBLvO9vc?t=491)
+
 ## 技術経歴
 
 - C (1年ほど)：大学の講義で学んだ
