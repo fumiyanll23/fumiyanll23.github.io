@@ -68,6 +68,10 @@ layout: default
   - 発表資料は [こちら](https://docs.google.com/presentation/d/11G1mw842LX2hdYST2Ov9BMZW8555WHM5h5cGVhs3fbA/edit?usp=sharing)
   - 発表の様子は [こちら](https://youtu.be/oKNwBLvO9vc?t=491)
 
+2022年
+
+- 2月：[SBテクノロジーオリジナル Capture The Flag](https://talent.supporterz.jp/events/0fe07520-ee62-4a55-a624-0da5f0a9bd7f/) に参加する
+
 ## 技術経歴
 
 - C (1年ほど)：大学の講義で学んだ
@@ -78,7 +82,7 @@ layout: default
 
 - R (1.5年ほど)：大学の講義で学んだ
 
-- Haskell (1ヶ月ほど)：[『すごいHaskellたのしく学ぼう!』](https://www.amazon.co.jp/%E3%81%99%E3%81%94%E3%81%84Haskell%E3%81%9F%E3%81%AE%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%BC%E3%81%86-Miran-Lipova%C4%8Da/dp/4274068854/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%81%99%E3%81%94%E3%81%84haskell&qid=1617610983&sr=8-1) で学習を進める
+- Haskell (1ヶ月ほど)：[『すごいHaskellたのしく学ぼう!』](https://www.amazon.co.jp/%E3%81%99%E3%81%94%E3%81%84Haskell%E3%81%9F%E3%81%AE%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%BC%E3%81%86-Miran-Lipova%C4%8Da/dp/4274068854/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%81%99%E3%81%94%E3%81%84haskell&qid=1617610983&sr=8-1) で学習を進めた
 
 - Go (2週間ほど)：株式会社マネーフォワードのインターンシップにて使用した
 
